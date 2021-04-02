@@ -55,7 +55,6 @@ plot(x1, x2)
 grid on
 xlabel('Velocidad')
 ylabel('Ti')
-legend('v', 'T')
 
 figure(2)
 clf
